@@ -1,16 +1,3 @@
 allowMergeCommits: true
 allowRevertCommits: true
 titleAndCommits: true
-types:
-  - build
-  - chore
-  - ci
-  - docs
-  - feat
-  - fix
-  - hotfix
-  - perf
-  - refactor
-  - revert
-  - style
-  - test
